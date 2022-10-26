@@ -1,1 +1,16 @@
-
+{
+    "items": [{
+            "url": "https://raw.githubusercontent.com/bannerku/ligamansion/main/ligamansion.jpg",
+            "alt": "Agent Sbobet Terpercaya"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/bannerku/ligamansion/main/ligamansion2.jpg",
+            "alt": "Bonus Cashback Dan Rollingan "
+        },
+        {
+            "url": "https://raw.githubusercontent.com/bannerku/ligamansion/main/ligamansion3.jpg",
+            "alt": "Deposit Pulsa"
+        }      
+        
+    ]
+}
